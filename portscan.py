@@ -1,6 +1,5 @@
 #!/usr/bin/env python
 # Created by EMLGaming
-#make a loading bar and a nice welcome
 from threading import Thread
 import socket
 import sys, time
